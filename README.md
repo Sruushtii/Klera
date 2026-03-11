@@ -2,7 +2,6 @@
 
 ![Klera Banner](./public/takken.jpg)
 
-![Klera Preview](./public/pr.jpg)
 
 Welcome to **Klera**, a revolutionary platform where gaming meets financial innovation. Use your wallet to buy coins, sell them for money, and immerse yourself in exciting single-player and 1v1 games like Tekken 3 and Super Mario.
 
