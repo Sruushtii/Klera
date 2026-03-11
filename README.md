@@ -86,7 +86,6 @@ Klera/
 For any questions or suggestions, feel free to reach out:
 - **Name:** Srushtiiii
 - **Email:** [kumbharsrusthi.01@gmail.com](mailto:kumbharsrusthi.01@gmail.com)
-- **Website:** [Klera](https://klera.netlify.app/)
 
 ---
 
